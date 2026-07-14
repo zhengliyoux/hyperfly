@@ -1,0 +1,21 @@
+{
+  "apiBaseUrl": "http://server.lynzzofficial.com:2190",
+  "brandName": "NIGHT WHYSPER",
+  "footerText": "NIGHTWHYSPER SECURE SYSTEM",
+  "poweredBy": "Powered by @greyskydrift",
+  "linkTelegram": "https://t.me/greyskydrift",
+  "linkTelegramChannel": "https://t.me/silnceonly",
+  "linkWhatsApp": "https://wa.me/62882016523845",
+  "linkTiktok": "https://www.tiktok.com/@nocturaflow",
+  "linkInstagram": "https://www.instagram.com/bytewithdee",
+  "apiSubdomainUrl": "https://api.siputzx.my.id/api/tools/subdomains",
+  "apiDnsUrl": "https://dns.google/resolve",
+  "apiQrUrl": "https://api.ikyyxd.my.id/tools",
+  "apiInstagramUrl": "https://api.siputzx.my.id/api/d/igram",
+  "apiTiktokUrl": "https://api.siputzx.my.id/api/d/tiktok",
+  "apiCuacaUrl": "https://api.siputzx.my.id/api/info/cuaca",
+  "apiJadwalSholatUrl": "https://api.aladhan.com/v1",
+  "apiPhoneLookupUrl": "https://free-lookup.net",
+  "apiTinyUrl": "https://tinyurl.com/api-create.php",
+  "configVersion": "1.0.1"
+}
