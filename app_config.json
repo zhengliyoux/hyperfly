@@ -1,4 +1,4 @@
 {
-  "api_base_url": "http://ip-anda:2191",
-  "api_ws_url": "ws://ip-anda:2191"
+  "api_base_url": "http://server.lynzzofficial.com:2190",
+  "api_ws_url": "ws://server.lynzzofficial.com:2190"
 }
