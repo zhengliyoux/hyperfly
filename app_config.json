@@ -1,0 +1,4 @@
+{
+  "api_base_url": "http://ip-anda:2191",
+  "api_ws_url": "ws://ip-anda:2191"
+}
