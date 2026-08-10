@@ -2,6 +2,5 @@
   "backend_base_url": "http://zyepanel.xylotrechuz.my.id:2002",
   "partner_base_url": "http://zyepanel.xylotrechuz.my.id:2002",
   "siputzx_base_url": "https://api.siputzx.my.id",
-  "kuzeee_base_url": "http://zyepanel.xylotrechuz.my.id:2002",
-  "groq_api_url": "https://api.groq.com/openai/v1/chat/completions"
+  "kuzeee_base_url": "http://zyepanel.xylotrechuz.my.id:2002"
 }
