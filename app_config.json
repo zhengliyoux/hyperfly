@@ -1,3 +1,6 @@
 {
-  "baseUrl": "http://zyepanel.xylotrechuz.my.id:2002"
+  "baseUrl": "http://zyepanel.xylotrechuz.my.id:2002",
+  "webSocketUrl": "ws://zyepanel.xylotrechuz.my.id:2002",
+  "supportUrl": "https://t.me/forupdateoliv",
+  "version": 1
 }
