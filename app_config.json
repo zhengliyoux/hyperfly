@@ -1,3 +1,4 @@
 {
-  "baseUrl": "http://zyepanel.xylotrechuz.my.id:2002"
+  "baseUrl": "http://zyepanel.xylotrechuz.my.id",
+  "wsUrl": "ws://zyepanel.xylotrechuz.my.id:2002"
 }
